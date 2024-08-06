@@ -13,7 +13,7 @@ male_happy,male_happy
 male_happy,male_happy
 male_calm,male_calm
 male_calm,male_calm
-male_fearful,male_fearful
+male_fearful,male_happy
 male_angry,male_angry
 male_angry,male_angry
 male_fearful,male_fearful
@@ -324,7 +324,7 @@ male_sad,male_sad
 male_angry,male_angry
 male_fearful,male_fearful
 male_fearful,male_fearful
-male_angry,male_calm
+male_angry,male_angry
 male_calm,male_calm
 male_calm,male_calm
 male_happy,male_happy
